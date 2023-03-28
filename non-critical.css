@@ -1,0 +1,9 @@
+.section {
+  background-color: #fffae6;
+  padding: 2rem 1rem;
+  margin: 0 -1.5rem;
+}
+
+.section h1 {
+  margin-top: 0;
+}
